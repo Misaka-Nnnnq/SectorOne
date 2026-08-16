@@ -1,0 +1,17 @@
+{
+  "name": "sectorone",
+  "version-string": "1.0.0",
+  "builtin-baseline": "94a541197763a4f449a1b91478df48c0584a6256",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [
+        "freetype",
+        "freetype-svg",
+        "glfw-binding",
+        "opengl3-binding"
+      ]
+    },
+    "opengl"
+  ]
+}
